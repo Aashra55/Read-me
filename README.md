@@ -8,6 +8,6 @@
 
 
 <!---
-Aashra55/Aashra55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aashra55/Read me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
