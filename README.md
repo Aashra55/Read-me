@@ -33,7 +33,7 @@ I love crafting user-friendly UIs and also enjoy creating intelligent apps using
 
 ## 📊 GitHub Stats
 
-![Aashra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashra55&show_icons=true&theme=radical)  
+![Aashra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashra55&show_icons=true&theme=radical&cache_seconds=60)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashra55&layout=compact&theme=radical)
 
 ---
