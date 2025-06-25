@@ -41,7 +41,7 @@ I love crafting user-friendly UIs and also enjoy creating intelligent apps using
 ## 🌐 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashra55)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aashra%Saleem/)  
+[![LinkedIn](https://www.linkedin.com/posts/aashra-saleem-a857a62ba_im-elevated-to-issue-a-statement-that-ive-activity-7178571433957109763-x2tz?utm_source=share&utm_medium=member_android)  
 
 If you're looking for collaboration or need a passionate frontend developer, feel free to connect.  
 **Let’s build something amazing together! 🚀**
