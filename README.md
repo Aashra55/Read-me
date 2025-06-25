@@ -28,7 +28,6 @@ I love crafting user-friendly UIs and also enjoy creating intelligent apps using
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMHB4IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHdpZHRoPSIxMjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTYuNDMxIDQuNzM1YTggOCAwIDAgMC02LjQ3OSA3Ljg2OWMtLjMxNCAzLjIzOCAzLjM4%0D%0AMzUgNS41MzYgNi4xMDUgNy4wODJjMi43MjE1IDEuNTQ1IDYuMDc3MyAzLjM0IDUuMzgxIDUuOTg5LS41MTcgMi4xNjItMy41Njcg%0D%0AMy40Ni02LjM2NSA0LjE0NS0zLjA2Mi43MTYtNi4zMDYgMS41MTItOC4wOTYgNC4zNzVhOCA4IDAgMSAwIDYuOTY1IDExLjcyNGMy%0D%0ALjk3Mi00Ljc3NSA5LjI1Ni02LjYzMyAxMi44MTQtMTAuMTU1IDMuNTU3LTMuNTIxIDMuMzYtOS4wMTItMS42NDYtMTEuMDYzYy0y%0D%0ALjk0MS0xLjA4Ny02LjU2NS0uMTA3LTguNjQ0IDIuMjE3LTIuMTEzNSAyLjM1My0zLjg3OCA1LjQ0Ni01LjE3OCAxLjA4N2EyIDIg%0D%0AMCAxIDAtMi43NjEtMi42NDRjMi4zNzctMi40MjcgNS42NjktMi45NzMgOC43NjQtMy43MzRhOCA4IDAgMCAwIDYuMjQ3LTkuNDk2%0D%0AZiIgc3R5bGU9ImZpbGw6I2ZmZiIgLz48L3N2Zz4%3D)
 
 ---
 
